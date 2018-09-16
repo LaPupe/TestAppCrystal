@@ -3,6 +3,7 @@ version: 0.1.0
 
 authors:
   - NGUYEN KY-ANH <ky-anh.nguyen@etu.unistra.fr>
+  - Vandervelden Luka <lukc@upyum.com>
 
 targets:
   testAppCrystal:
@@ -15,4 +16,5 @@ license: MIT
 dependencies:
   kemal:
     github: kemalcr/kemal
-
+  html_builder:
+    github: crystal-lang/html_builder
